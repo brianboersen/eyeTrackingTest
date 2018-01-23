@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Tobii/DemoScenes/01_GazePointData.unity
+  isLoaded: 1
+  isActive: 1
